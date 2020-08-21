@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityRecognition</string>
+
+    <string name="toggle_text">Toggle activity tracking</string>
+</resources>
